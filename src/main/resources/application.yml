@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+
+pinata:
+  api-key: ${api-key}
+  secret-api-key: ${secret-api-key}
+  api-url: ${api-url}
+  cloud-url: ${cloud-url}
